@@ -1,0 +1,6 @@
+PyMuPDF
+requests
+beautifulsoup4
+langchain-core
+Pillow
+pytesseract
