@@ -1,6 +1,11 @@
-PyMuPDF
+streamlit
+python-dotenv
 requests
 beautifulsoup4
-langchain-core
+PyMuPDF
 Pillow
 pytesseract
+langchain-core
+langchain-openai
+langchain-chroma
+langchain-text-splitters
